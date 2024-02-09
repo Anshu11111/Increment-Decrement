@@ -1,0 +1,46 @@
+.bigbox{
+    background-color: cornflowerblue;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.heading h2{
+    margin: 0 !important;
+}
+.middle{
+    margin: 20px;
+    display: flex;
+    
+}
+.middle p{
+    background-color: white;
+  margin: 0px 2px;
+  text-align: center;
+  height: 50px;
+  width: 50px;
+  font-size: 23px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+  
+    
+}
+
+
+.middle button{
+    width: 40px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+.bottom button{
+    padding: 6px 15px;
+    border: none;
+    background-color: #2d094e;
+   color: white;
+}
